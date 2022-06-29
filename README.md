@@ -4,7 +4,7 @@ Done by:
 
 Miguel Lopes
 
-Miguel Pimenta
+Miguel Pimenta, uc2018287956@student.uc.pt
 
 Project (for evaluation) ---- 
 
