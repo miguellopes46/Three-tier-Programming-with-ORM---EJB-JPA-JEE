@@ -1,5 +1,9 @@
 # Three-tier-Programming-with-ORM---EJB-JPA-JEE
 
+Done by:
+Miguel Lopes
+Miguel Pimenta
+
 Project (for evaluation) ---- 
 
 
