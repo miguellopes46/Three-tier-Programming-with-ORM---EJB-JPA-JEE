@@ -3,7 +3,7 @@
 Project (for evaluation) ---- 
 
 
-Grade of 77% on this Assignment
+Grade of 77% on this Assignment----
 17,18,19 aren't done.
 
 
